@@ -1,0 +1,4 @@
+[flake8]
+exclude = .env,.direnv,.git,.mypy_cache,.pytest_cache,__pycache__
+max-line-length = 100
+extend-ignore = E203
